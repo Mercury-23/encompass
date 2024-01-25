@@ -11,8 +11,6 @@
     @vite('resources/js/admin.index.js')
 @endpush
 
-
-
 <x-app-layout>
     <div id="vue-app" class="">
         <!-- Modal -->
